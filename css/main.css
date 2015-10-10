@@ -10,9 +10,9 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-color: #2a777d;
+ /* background-color: #2a777d;
   opacity: 0.6;
-  filter: Alpha(opacity=50); /* IE8 and earlier */
+  filter: Alpha(opacity=50); /* IE8 and earlier */ 
 }
 
 
@@ -44,8 +44,9 @@
 	border-radius: 25px;
 }
 
-
-
+.planitem {
+	padding:15px;
+}
 
 
 
